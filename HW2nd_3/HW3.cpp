@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
 	int a, i, l;
-	printf("Enter integer : ");
+	printf("Enter Positive integers : ");
 	scanf_s("%d", &a);
 	int A = a;
 	for (i = 0;A >= i;i++)
